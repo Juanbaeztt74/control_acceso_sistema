@@ -1,0 +1,43 @@
+#AND
+
+RESULTADO = True and True
+RESULTADO2 = False and True
+RESULTADO3 = True and False
+RESULTADO4 = False and False
+
+
+#OR
+
+RESULTADO5 = True or True
+RESULTADO6 = False or True
+RESULTADO7 = True or False
+RESULTADO8 = False or False
+
+
+#NOT
+
+RESULTADO9 = not True
+RESULTADO10 = not False
+
+print("RESULTADO AND 1:", RESULTADO)
+print("RESULTADO AND 2:", RESULTADO2)   
+print("RESULTADO AND 3:", RESULTADO3)
+print("RESULTADO AND 4:", RESULTADO4)
+
+print("RESULTADO OR 1:", RESULTADO5)
+print("RESULTADO OR 2:", RESULTADO6)
+print("RESULTADO OR 3:", RESULTADO7)
+print("RESULTADO OR 4:", RESULTADO8)
+
+print("RESULTADO NOT 1:", RESULTADO9)
+print("RESULTADO NOT 2:", RESULTADO10)
+
+
+
+
+
+
+
+
+
+
