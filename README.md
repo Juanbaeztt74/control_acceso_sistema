@@ -1,11 +1,4 @@
-🔐 App de Control de Acceso en Python
-
-📌 Descripción
-
-Este proyecto es una aplicación de control de acceso desarrollada en Python que verifica el ingreso de un usuario mediante nombre, contraseña y edad mínima.
-El sistema permite acceder a un menú donde el usuario puede elegir entre una calculadora o ejercicios de operadores lógicos.
-
-🚀 Funciones del sistema
+Funciones del sistema
 	•	Verificación de nombre
 	•	Verificación de edad (18 años o más)
 	•	Verificación de usuario y contraseña
@@ -15,28 +8,26 @@ El sistema permite acceder a un menú donde el usuario puede elegir entre una ca
 	•	Operadores lógicos
 	•	Sistema de seguridad básico
 
-🧠 Tecnologías usadas
+Codigos: 
 	•	Python
 	•	Operadores lógicos
 	•	Condicionales (if / else)
 	•	Input y Output
 	•	Módulos
 
-📂 Estructura del proyecto
+Estructura del proyecto
 
 control_acceso.py
 CALCUD_2.py
 OP_LOGICOS.py
 
-▶️ Cómo ejecutar el programa
+Cómo ejecutar el programa:
 	1.	Instalar Python
 	2.	Descargar el proyecto
 	3.	Abrir la terminal
 	4.	Ejecutar: python control_acceso.py
 
-👨‍💻 Autor
-
-Juan Baez
+dir: Juan Baez
 
 🎯 Objetivo
 
